@@ -433,8 +433,7 @@ const styles = StyleSheet.create({
   stepContainer: {
     flex: 1,
     flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center'
+    alignItems: 'center'
   },
   stepLabel: {
     fontSize: 12,
@@ -444,7 +443,6 @@ const styles = StyleSheet.create({
   stepLabelItem: {
     flex: 1,
     alignItems: 'center',
-    justifyContent: 'center'
   }
 })
 
