@@ -419,7 +419,7 @@ const styles = StyleSheet.create({
   stepIndicatorContainer: {
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'space-around',
+    justifyContent: 'space-between',
     backgroundColor: 'transparent'
   },
   stepLabelsContainer: {
